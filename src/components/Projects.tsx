@@ -38,7 +38,7 @@ export default function Projects() {
         'Balanced passion, skills, and salary outcomes',
         'Created as part of Google DeepMind Gemini 3 challenge',
       ],
-      image: '/e1249893-6337-45b9-9e45-ebc6976176bd.png',
+      image: '/img.png',
       kaggle:
         'https://www.kaggle.com/competitions/gemini-3/writeups/new-writeup-1765178335985',
       aiStudio:
